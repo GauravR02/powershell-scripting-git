@@ -54,3 +54,12 @@ SerializationVersion           1.1.0.1
 WSManStackVersion              3.0
 
 PS C:\Users\gaura>
+
+
+PS C:\Users\gaura> $PSVersionTable.PSVersion
+
+Major  Minor  Patch  PreReleaseLabel BuildLabel
+-----  -----  -----  --------------- ----------
+7      4      4
+
+some detailing about the versions of the PowerShell ..
