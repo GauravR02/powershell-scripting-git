@@ -34,3 +34,6 @@ If your computer runs something other than Windows 8 or later, you need to insta
 
 PowerShell extension for Visual Studio Code
 We recommend that you use the PowerShell extension for Visual Studio Code to author your PowerShell scripts and to run the commands in this module. This extension lets you run commands, and also helps you with snippets, code completion, and syntax highlighting.
+
+
+running the first PowerShell program!!
